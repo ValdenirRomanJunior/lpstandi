@@ -68,8 +68,17 @@ h2{
     color: #fff;
     margin-top: 10px;
 }
+.balao{
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 50px;
+}
 
-
+.balao p{
+    font-family: "Open-Sans", sans-serif;
+   
 @media screen and (min-width:600px){
     .main{
         padding: 5%;
